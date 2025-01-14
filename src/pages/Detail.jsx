@@ -37,7 +37,7 @@ function Detail({ data }) {
           <Count />
           <Count />
 
-          {/* <button type="submit">주문하기</button> */}
+          <button type="submit">주문하기</button>
         </div>
       </div>
       <TabUi></TabUi>
