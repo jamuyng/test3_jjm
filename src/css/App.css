@@ -261,7 +261,12 @@
 .mb-3 {
   margin: var(--gap-b) 0;
 }
-
+.countCon{
+  margin-bottom: 10px;
+}
+.countCon .minus , .countCon .plus{
+  border: none;
+}
 /* 상품카드 영역 */
 .card {
   border-radius: var(--gap-s);
